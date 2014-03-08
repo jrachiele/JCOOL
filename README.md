@@ -11,7 +11,9 @@ In order to compile JCOOL you need:
 
 To compile and install JCOOL run:
 
-```bash
+```
+git clone https://github.com/cvut/JCOOL.git
+git submodule init && git submodule update
 cd configurations
 mvn compile
 mvn install
@@ -23,7 +25,7 @@ mvn install
 
 ## Documentation
 
-See wiki: https://github.com/dhonza/JCOOL/wiki
+See wiki: https://github.com/cvut/JCOOL/wiki
 
 ## Acknowledgement
 
