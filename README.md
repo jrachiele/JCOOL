@@ -12,15 +12,10 @@ In order to compile JCOOL you need:
 To compile and install JCOOL run:
 
 ```
-git clone https://github.com/cvut/JCOOL.git
-git submodule init && git submodule update
-cd configurations
-mvn compile
-mvn install
-cd ..
-cd jcool
-mvn compile
-mvn install
+$ git clone https://github.com/cvut/JCOOL.git
+$ git submodule init && git submodule update
+$ cd jcool
+$ mvn install
 ```
 
 ## Documentation
