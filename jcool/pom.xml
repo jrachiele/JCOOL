@@ -14,6 +14,7 @@
         <module>ui</module>
         <module>benchmark</module>
         <module>experiment</module>
+        <module>configurations</module>
     </modules>
 
     <build>

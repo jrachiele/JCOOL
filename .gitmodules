@@ -7,3 +7,6 @@
 [submodule "jcool/solver"]
 	path = jcool/solver
 	url = https://github.com/cvut/jcool-solver.git
+[submodule "jcool/configurations"]
+	path = jcool/configurations
+	url = https://github.com/deric/ytoh-configurations.git
